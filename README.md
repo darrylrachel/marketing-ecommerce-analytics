@@ -6,10 +6,10 @@ This project analyzes customer behavior, marketing funnels, campaign uplift, rev
 
 
 ## 📂 Project Structure
-/sql        → all SQL queries (funnels, segmentation, revenue, AB tests)
-/python     → EDA, cleaning, feature engineering
-/tableau    → dashboard files (.twbx)
-/erd        → schema diagrams
+/sql        → all SQL queries (funnels, segmentation, revenue, AB tests)  
+/python     → EDA, cleaning, feature engineering  
+/tableau    → dashboard files (.twbx)  
+/erd        → schema diagrams  
 
 
 ## 🎯 Project Objectives
